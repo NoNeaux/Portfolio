@@ -2,5 +2,11 @@ baseURL = "https://NoNeaux.github.io/Portfolio/"
 languageCode = "en-us"
 title = "My Resume"
 theme = "book"
+
+# Disable search
 [params]
-  disableSearch = true
+  [params.search]
+    enable = false
+
+# Optional: simplify site (no taxonomy pages, etc.)
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "RSS", "sitemap", "page"]
