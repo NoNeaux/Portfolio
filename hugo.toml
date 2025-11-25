@@ -1,3 +1,4 @@
+# Basic site info
 baseURL = "https://NoNeaux.github.io/Portfolio/"
 languageCode = "en-us"
 title = "My Resume"
@@ -8,5 +9,11 @@ theme = "book"
   [params.search]
     enable = false
 
-# Optional: simplify site (no taxonomy pages, etc.)
+# Optional: Simplify site
 disableKinds = ["taxonomy", "taxonomyTerm", "section", "RSS", "sitemap", "page"]
+
+# Optional: book theme options
+[params.book]
+  hideFooter = true       # hides the default footer
+  showTOC = false         # hides table of contents
+  hideSiteTitle = false   # shows site title
