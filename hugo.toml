@@ -1,6 +1,6 @@
 # Basic site info
 baseURL = "https://NoNeaux.github.io/Portfolio/"
 languageCode = "en-us"
-title = "My Resume"
+title = "Daniel Miller Resume"
 theme = "book"
 
