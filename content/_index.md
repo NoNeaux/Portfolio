@@ -13,6 +13,10 @@ Technical writer with experience creating clear, accessible documentation for co
 
 ## Experience
 
+### iManage
+** Senior Technical Writer**
+*June 2026 - Present*
+
 ### Varonis Systems  
 
 **Technical Content Manager, Cloud Security**  
