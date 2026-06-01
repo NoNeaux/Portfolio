@@ -3,5 +3,6 @@ baseURL = "https://NoNeaux.github.io/Portfolio/"
 languageCode = "en-us"
 title = "Daniel Miller Resume"
 theme = "book"
+
 [params]
-  BookTheme = 'auto'
+  BookTheme = "auto"
