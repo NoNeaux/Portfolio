@@ -14,9 +14,6 @@ published versions.*
 
 ## Product & Concept Documentation
 
-- [iManage platform user help](https://docs.imanage.com/cloud/the-imanage-platform/user-help/en-US/User.html)
-  — End-user documentation for the iManage platform that I wrote, tested,
-  and structured: task-based topics. Organized to follow the new-user journey from first sign-in to daily work.
 - [About IBM Cloud Object Storage](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-about-cloud-object-storage)
   — Product overview written for both technical and non-technical readers.
 - [Satellite storage templates overview](https://cloud.ibm.com/docs/satellite?topic=satellite-storage-template-ov)
