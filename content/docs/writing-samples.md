@@ -6,16 +6,11 @@ weight: 2
 # Writing Samples
 
 A selection of published work. Everything here is publicly available —
-links go to the live docs and articles.
+links go to the live docs and articles. 
 
-## API Documentation
-
-- [IBM Cloud Kubernetes Service API — Create a Satellite cluster](https://cloud.ibm.com/apidocs/kubernetes/containers-v1-v2#createsatellitecluster)
-  — REST API reference documentation: endpoint behavior, parameters, and
-  payload structure for cluster infrastructure.
-- [IBM Cloud Object Storage — S3-compatibility API](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-compatibility-api)
-  — Developer-facing guide mapping IBM COS behavior to the S3 API, written
-  for engineers migrating existing tooling.
+*Note: Documentation is a living product — pieces published during my time at
+IBM (2021–2024) have continued to evolve since. Links reflect the current
+published versions.*
 
 ## Product & Concept Documentation
 
@@ -29,6 +24,15 @@ links go to the live docs and articles.
   support friction.
 - [OpenShift Data Foundation on Satellite](https://cloud.ibm.com/docs/satellite?topic=satellite-storage-odf-local&interface=ui)
   — Task-based configuration guide for a deeply technical audience.
+
+## API Documentation
+
+- [IBM Cloud Kubernetes Service API — Create a Satellite cluster](https://cloud.ibm.com/apidocs/kubernetes/containers-v1-v2#createsatellitecluster)
+  — REST API reference documentation: endpoint behavior, parameters, and
+  payload structure for cluster infrastructure.
+- [IBM Cloud Object Storage — S3-compatibility API](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-compatibility-api)
+  — Developer-facing guide mapping IBM COS behavior to the S3 API, written
+  for engineers migrating existing tooling.
 
 ## Tutorials & Walkthroughs
 
