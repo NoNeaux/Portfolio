@@ -9,6 +9,8 @@ weight: 1
 **Senior Technical Writer**
 *June 2026 - Present*
 
+- Write, test, and structure end-user documentation for the iManage platform, covering navigation, user settings, and management of clients, workspaces, and documents
+
 ### Varonis Systems  
 
 **Technical Content Manager, Cloud Security**  
