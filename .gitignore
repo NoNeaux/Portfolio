@@ -8,3 +8,5 @@ resources/_gen/
 # OS files
 .DS_store
 Thumbs.db
+public/
+resources/_gen/
