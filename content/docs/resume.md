@@ -6,6 +6,7 @@ weight: 1
 ## Experience
 
 ### iManage
+
 **Senior Technical Writer**
 *June 2026 - Present*
 
@@ -69,4 +70,3 @@ weight: 1
 
 - Assisted students with business and technical writing.  
 - Provided guidance on clarity, structure, and audience-focused communication.
-
