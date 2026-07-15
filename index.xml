@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Daniel Miller — Technical Writer</title><link>https://NoNeaux.github.io/Portfolio/</link><description>Recent content in Home on Daniel Miller — Technical Writer</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://NoNeaux.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://NoNeaux.github.io/Portfolio/docs/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://NoNeaux.github.io/Portfolio/docs/resume/</guid><description>&lt;h2 id="experience"&gt;Experience&lt;a class="anchor" href="#experience"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="imanage"&gt;iManage&lt;a class="anchor" href="#imanage"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Senior Technical Writer&lt;/strong&gt;
+&lt;em&gt;June 2026 - Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Write, test, and structure end-user documentation for the iManage platform, covering navigation, user settings, and management of clients, workspaces, and documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="varonis-systems"&gt;Varonis Systems&lt;a class="anchor" href="#varonis-systems"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Technical Content Manager, Cloud Security&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;January 2025 – October 2025&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Created and edited technical blogs, whitepapers, and content focused on cloud security, APIs, and SaaS platforms&lt;/li&gt;
+&lt;li&gt;Improved content retrieval and visibility using metadata tagging and structured authoring principles&lt;/li&gt;
+&lt;li&gt;Collaborated with researchers, designers, and engineers to deliver content aligned with enterprise goals&lt;/li&gt;
+&lt;li&gt;Managed content workflows and performance in Asana and HubSpot&lt;/li&gt;
+&lt;li&gt;Partnered on AI-assisted content projects, refining tone, accuracy, and style to improve retrieval by LLMs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ibm"&gt;IBM&lt;a class="anchor" href="#ibm"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Information Developer, Technical Writer&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Oct 2021 – Oct 2024&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Writing Samples</title><link>https://NoNeaux.github.io/Portfolio/docs/writing-samples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://NoNeaux.github.io/Portfolio/docs/writing-samples/</guid><description>&lt;h2 id="writing-samples"&gt;Writing Samples&lt;a class="anchor" href="#writing-samples"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A selection of published work. Everything here is publicly available —
+links go to the live docs and articles.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: Documentation is a living product — pieces published during my time at
+IBM (2021–2024) have continued to evolve since. Links reflect the current
+published versions.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id="product--concept-documentation"&gt;Product &amp;amp; Concept Documentation&lt;a class="anchor" href="#product--concept-documentation"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-about-cloud-object-storage"&gt;About IBM Cloud Object Storage&lt;/a&gt;
+— Product overview written for both technical and non-technical readers.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cloud.ibm.com/docs/satellite?topic=satellite-storage-template-ov"&gt;Satellite storage templates overview&lt;/a&gt;
+— UX-focused conceptual content designed to improve onboarding and reduce
+support friction.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cloud.ibm.com/docs/satellite?topic=satellite-storage-odf-local&amp;amp;interface=ui"&gt;OpenShift Data Foundation on Satellite&lt;/a&gt;
+— Task-based configuration guide for a deeply technical audience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="api-documentation"&gt;API Documentation&lt;a class="anchor" href="#api-documentation"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cloud.ibm.com/apidocs/kubernetes/containers-v1-v2#createsatellitecluster"&gt;IBM Cloud Kubernetes Service API — Create a Satellite cluster&lt;/a&gt;
+— REST API reference documentation: endpoint behavior, parameters, and
+payload structure for cluster infrastructure.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-compatibility-api"&gt;IBM Cloud Object Storage — S3-compatibility API&lt;/a&gt;
+— Developer-facing guide mapping IBM COS behavior to the S3 API, written
+for engineers migrating existing tooling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="tutorials--walkthroughs"&gt;Tutorials &amp;amp; Walkthroughs&lt;a class="anchor" href="#tutorials--walkthroughs"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.varonis.com/blog/create-s3-bucket"&gt;How to create an S3 bucket&lt;/a&gt;
+— Step-by-step product walkthrough with screenshots and context on why
+each setting matters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="security--industry-writing-varonis"&gt;Security &amp;amp; Industry Writing (Varonis)&lt;a class="anchor" href="#security--industry-writing-varonis"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.varonis.com/blog/forcedleak"&gt;ForcedLeak&lt;/a&gt; — Research writeup
+translating original security research for a broad audience.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.varonis.com/blog/what-is-dam"&gt;What is Database Activity Monitoring (DAM)?&lt;/a&gt;
+— Explainer on a data protection category.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.varonis.com/blog/salesloft-drift-breach-and-saas-risk-"&gt;The Salesloft Drift breach and SaaS risk&lt;/a&gt;
+— News analysis connecting a breach to broader SaaS security lessons.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.varonis.com/blog/dspm-and-kubernetes"&gt;DSPM and Kubernetes&lt;/a&gt;
+— Bridging data security posture management and container platforms.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
