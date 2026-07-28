@@ -3,6 +3,8 @@ title: Resume
 weight: 1
 ---
 
+# Resume
+
 ## Experience
 
 ### iManage
@@ -46,6 +48,8 @@ weight: 1
 - Developed structured documentation for technical programs and research systems
 - Supported cross-functional engineering teams with high-quality written deliverables
 - Maintained documentation standards across multiple projects
+
+## Education
 
 ### NC State University – Office of Information Technology  
 
